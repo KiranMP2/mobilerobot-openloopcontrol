@@ -105,11 +105,6 @@ https://youtu.be/dRlR_OuWNRQ
 ![WhatsApp Image 2025-04-26 at 11 35 21_dac29b5e](https://github.com/user-attachments/assets/4aa07eb7-41c5-436f-88c9-a6c121258b14)
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
